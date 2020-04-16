@@ -1,0 +1,10 @@
+ name: uhm-spring-2020
+ channels:
+   - conda-forge
+ dependencies:
+   - python=3
+   - numpy
+   - matplotlib
+   - pyaudio
+   - pandas
+   - jupyterlab
